@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **ML and Web development projects**
 
-- 🌱 I’m currently learning **Backend technologies and Data Analytics essentials.**
+- 🌱 I’m currently learning **Backend technologies**
 
 - 📫 How to reach me **snehithaguntaka09@gmail.com**
 
